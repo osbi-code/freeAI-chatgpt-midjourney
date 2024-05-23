@@ -1,4 +1,4 @@
-[English](https://github.com/osbi-code/freeAI-chatgpt-midjourney) | [中文](#)
+[English](https://github.com/osbi-code/freeAI-chatgpt-midjourney) | [中文](https://github.com/osbi-code/freeAI-chatgpt-midjourney/blob/main/README_CN.md)
 # freeAI-chatgpt-midjourney
 A free AI project for technical exchange and learning maintained by members of the Blockchain LUNC Validator node  
 
