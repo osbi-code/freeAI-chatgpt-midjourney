@@ -2,6 +2,8 @@
 # freeAI-chatgpt-midjourney
 A free AI project for technical exchange and learning maintained by members of the Blockchain LUNC Validator node  
 
+Websites we work with: [https://www.bistudio.com.cn](https://www.bistudio.com.cn)
+
 # What we offer
 - We purchase official AI services such as ChatGPT, MidJourney ,through formal channels and provide them free of charge to members of the LUNC Validator Node to use for testing  
 - Provide a technology exchange and support platform on how to better utilize AI and realize the full open application of AI to BI (Business Intelligence).
@@ -21,3 +23,4 @@ A free AI project for technical exchange and learning maintained by members of t
 # limit
 1. LUNC node: the operation of BI.Studio directly determines the continuity of the free service
 2. When we find that the free service is being abused at an unaffordable cost, we will terminate the service. We don't switch to a paid service, we just stop it, because charging goes against our original intention
+3. Since we are a free service, please understand that sometimes the speed will be slower when there are more people using the service or when it is abused.
