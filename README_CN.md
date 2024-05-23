@@ -1,4 +1,4 @@
-[English](https://github.com/osbi-code/freeAI-chatgpt-midjourney) | [中文](#)
+[English](https://github.com/osbi-code/freeAI-chatgpt-midjourney) | [中文](https://github.com/osbi-code/freeAI-chatgpt-midjourney/blob/main/README_CN.md)
 # 免费AI-chatgpt-midjourney
 由区块链 LUNC 验证器节点成员维护的用于技术交流和学习的免费人工智能项目  
 
