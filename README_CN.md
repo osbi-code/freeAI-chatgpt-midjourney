@@ -11,14 +11,20 @@
 # 我们为什么做
 - 帮助大众更容易获得人工智能，并利用AI提高生产力
 - 帮助企业实现更智能的 BI，更好地服务于 C端用户的 AI
-- 帮助验证器节点： "BI.Studio"，吸引更多人加入，并保持其在区块链中的竞争力
+- 帮助验证器节点： "[Bi.Studio](https://s.cryptonian.life/lunc/validator/terravaloper1s2xpff7mj6jpxfyhr7pe25vt8puvgj4wy0tzjx#3)"，吸引更多人加入，并保持其在区块链中的竞争力
 
 # 如何做
-1. 我们首先选择了一家优质的 LUNC 节点运营商 "Bi.Studio"，与之在 Terra 区块链上合作
-2. 基于我们不断对 LUNC 持续的投资，并委托验证器节点 "BI.Studio "自动实现复利再投资，即中国的 "利滚利"。
+1. 我们首先选择了一家优质的 LUNC 节点运营商 "[Bi.Studio](https://s.cryptonian.life/lunc/validator/terravaloper1s2xpff7mj6jpxfyhr7pe25vt8puvgj4wy0tzjx#3)"，与之在 Terra 区块链上合作
+2. 基于我们不断对 LUNC 持续的投资，并委托验证器节点 "[Bi.Studio](https://s.cryptonian.life/lunc/validator/terravaloper1s2xpff7mj6jpxfyhr7pe25vt8puvgj4wy0tzjx#3) "自动实现复利再投资，即中国的 "利滚利"。
 3. 利用通过复利获得的财富，拿出一部分购买人工智能服务，如 ChatGPT\Midjourney
 4. 寻找优秀的 github 人工智能项目，作为人工智能服务的前端 UI 界面，例如 [chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy)、[lobe-chat](https://github.com/lobehub/lobe-chat)
 5. 在用户界面项目中设置 KEY，并免费提供给成员使用
+
+------
+**我是Terra区块链中Lunc验证器"[Bi.Studio](https://s.cryptonian.life/lunc/validator/terravaloper1s2xpff7mj6jpxfyhr7pe25vt8puvgj4wy0tzjx#3)"中排名第一的委托者** 
+
+<img src="https://midjourney-proxy.bistudio.com.cn/uploads/2024/05/23/664f53cdb0e43.jpg" alt="lunc_delegation.jpg" title="lunc_delegation.jpg" />
+
 
 # 限制
 1. LUNC节点："BI.Studio" 的运营收益直接决定了免费服务的连续性
