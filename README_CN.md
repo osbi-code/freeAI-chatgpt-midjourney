@@ -5,7 +5,7 @@
 合作网站: [https://www.bistudio.com.cn](https://www.bistudio.com.cn)
 
 # 我们提供什么
-- 我们通过正规渠道购买 ChatGPT、MidJourney 等官方人工智能服务，并免费提供给 Terra LUNC 验证器节点成员用于测试。  
+- 我们通过正规渠道购买** ChatGPT、MidJourney **等官方人工智能服务，并免费提供给 Terra LUNC 验证器节点成员用于测试。  
 - 就如何更好地利用人工智能，实现人工智能在 BI（商业智能）中的全面开放应用，提供技术交流和支持平台。
 
 # 我们为什么做
