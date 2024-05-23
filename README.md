@@ -14,11 +14,16 @@ Websites we work with: [https://www.bistudio.com.cn](https://www.bistudio.com.cn
 - Help Validator Node: "BI.Studio, attract more people to join it and stay competitive in the blockchain
 
 # How to do it
-1. We started by choosing a premium LUNC node operator to work with on the Terra blockchain: Bi.Studio
-2. We continuously invest in LUNC and entrust the validator node "BI.Studio" to automate the realization of compounding investment, i.e. the Chinese "Profit Rolling".
+1. We started by choosing a premium LUNC node operator to work with on the Terra blockchain: [Bi.Studio](https://s.cryptonian.life/lunc/validator/terravaloper1s2xpff7mj6jpxfyhr7pe25vt8puvgj4wy0tzjx#3)
+2. We continuously invest in LUNC and entrust the validator node "BI.Studio" to automate the realization of compounding investment, i.e. the Chinese "Profit Rolling".  [Auto Restake](https://restake.app/terra/terravaloper1s2xpff7mj6jpxfyhr7pe25vt8puvgj4wy0tzjx/stake)
 3. With the wealth gained through compounding, take out a portion to buy AI services such as ChatGPT\Midjourney
 4. Looking for great github AI projects to serve as front-end UI interfaces for AI services, like as [chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy)、[lobe-chat](https://github.com/lobehub/lobe-chat)
 5. Set up the KEY in the UI project and make it available to members for free
+
+------
+**I'm the top-ranked delegate in the Terra Blockchain Lunc validator "[Bi.Studio](https://s.cryptonian.life/lunc/validator/terravaloper1s2xpff7mj6jpxfyhr7pe25vt8puvgj4wy0tzjx#3)"** 
+
+<img src="https://midjourney-proxy.bistudio.com.cn/uploads/2024/05/23/664f53cdb0e43.jpg" alt="lunc_delegation.jpg" title="lunc_delegation.jpg" />
 
 # limit
 1. LUNC node: the operation of BI.Studio directly determines the continuity of the free service
