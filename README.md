@@ -4,6 +4,8 @@ A free AI project for technical exchange and learning maintained by members of t
 
 Websites we work with: [https://www.bistudio.com.cn](https://www.bistudio.com.cn)
 
+**If you  feel a little good about this program, please give an encouragement Star!**
+
 # What we offer
 - We purchase official AI services such as **ChatGPT, MidJourney** ,through formal channels and provide them free of charge to members of the LUNC Validator Node to use for testing  
 - Provide a technology exchange and support platform on how to better utilize AI and realize the full open application of AI to BI (Business Intelligence).
