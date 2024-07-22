@@ -25,7 +25,7 @@ Websites we work with: [https://www.bistudio.com.cn](https://www.bistudio.com.cn
 ------
 **I'm the top-ranked delegate in the Terra Blockchain Lunc validator "[Bi.Studio](https://s.cryptonian.life/lunc/validator/terravaloper1s2xpff7mj6jpxfyhr7pe25vt8puvgj4wy0tzjx#3)"** 
 
-<img src="https://midjourney-proxy.bistudio.com.cn/uploads/2024/05/23/664f53cdb0e43.jpg" alt="lunc_delegation.jpg" title="lunc_delegation.jpg" />
+<img src="https://image.bistudio.com.cn/i/2024/07/21/669cfd41c7999.jpg" alt="lunc_delegation.jpg" title="lunc_delegation.jpg" />
 
 # limit
 1. LUNC node: the operation of BI.Studio directly determines the continuity of the free service
