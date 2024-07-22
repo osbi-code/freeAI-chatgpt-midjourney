@@ -25,7 +25,7 @@
 ------
 **我是Terra区块链中Lunc验证器"[Bi.Studio](https://s.cryptonian.life/lunc/validator/terravaloper1s2xpff7mj6jpxfyhr7pe25vt8puvgj4wy0tzjx#3)"中排名第一的委托者** 
 
-<img src="https://midjourney-proxy.bistudio.com.cn/uploads/2024/05/23/664f53cdb0e43.jpg" alt="lunc_delegation.jpg" title="lunc_delegation.jpg" />
+<img src="https://image.bistudio.com.cn/i/2024/07/21/669cfd41c7999.jpg" alt="lunc_delegation.jpg" title="lunc_delegation.jpg" />
 
 
 # 限制
